@@ -24,7 +24,7 @@ namespace ProjetGsb
             recupAntibiotiques();
 
         }
-        public async void recupAntibiotiques()
+        public async void recupAntibiotiques() //recup les antibios
         {
 
             HttpClient wc = new HttpClient();
