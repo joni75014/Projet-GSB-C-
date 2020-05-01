@@ -46,7 +46,7 @@
             />
 
             <Button x:Name="Button_Recherche"
-                    Text="Rechercher un poids"
+                    Text="Rechercher"
                     BackgroundColor="AntiqueWhite"
                     Clicked="Button_Recherche_Clicked"
                     HorizontalOptions="FillAndExpand"
